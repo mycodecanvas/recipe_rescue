@@ -20,8 +20,8 @@ public class UserEntity extends BaseEntity {
     @Column(name="difficulty_id")
     private Integer difficultyId;
 
-    @Column(name="serving_size_id")
-    private Integer servingSizeId;
+//    @Column(name="serving_size_id")
+//    private Integer servingSizeId;
 
     @Column(name="prep_time_id")
     private Integer prepTimeId;

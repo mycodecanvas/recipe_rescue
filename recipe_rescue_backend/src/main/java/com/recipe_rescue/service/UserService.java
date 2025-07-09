@@ -27,7 +27,7 @@ public class UserService {
         user.setId(userEntity.getId());
         user.setUsername(userEntity.getUsername());
         user.setDifficultyId(userEntity.getDifficultyId());
-        user.setServingSizeId(userEntity.getServingSizeId());
+//        user.setServingSizeId(userEntity.getServingSizeId());
         user.setPrepTimeId(userEntity.getPrepTimeId());
         user.setCuisineId(userEntity.getCuisineId());
         user.setCreatedAt(userEntity.getCreatedAt());
